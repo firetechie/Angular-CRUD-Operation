@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "vishwa",
+      "mobile": "878798",
+      "email": "v@gmail.com",
+      "password": "878787",
+      "id": 1
+    },
+    {
+      "name": "rama",
+      "mobile": "98989898",
+      "email": "ram@gmail.com",
+      "password": "98989899",
+      "id": 2
+    },
+    {
+      "name": "vishwanath hegde",
+      "mobile": "878798",
+      "email": "viiiii@gmail.com",
+      "password": "675677",
+      "id": 3
+    }
+  ]
+}
